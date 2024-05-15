@@ -6,6 +6,7 @@ Script Bash ini digunakan untuk memantau kinerja server dan menyimpan hasilnya k
 
 ```bash
 ./scraping.sh
+```
 ## Persyaratan
 
 - **top**: Untuk memeriksa penggunaan CPU.
