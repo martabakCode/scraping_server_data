@@ -54,5 +54,6 @@ Anda dapat menjadwalkan eksekusi skrip ini secara berkala menggunakan cron job. 
 
 ```bash
 */5 * * * * /path/to/scraping.sh
+```
 
 Pastikan untuk mengganti /path/to/scraping.sh dengan jalur lengkap ke skrip Anda.
